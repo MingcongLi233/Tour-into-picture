@@ -39,7 +39,13 @@ Click "go!" in "Step 4". In the pop-up window, you can use the keyboard to contr
 After you adjust camera, enter [b] to get a screenshot. When the screenshot is taken successfully, you can see the pop-up message-window (msg - "Screenshot successfully!”). At this point you can find an image named "Screenshot" in the folder.  
 If you are not satisfied with this image, please click "yes" in the pop-up message-window. Adjust the angular and position of camera again and enter [b] again to get a new screenshot.  
 ### 7.Quit
-If you are satisfied with the screenshot, please enter [Esc] to end the control of keyboard.  
+If you are satisfied with the screenshot, please enter [Esc] to end the control of keyboard. 
+
+## Demonstration of Results
+<div style="display:Result;">
+  <img src="pic/result_before.jpg" style="width:50%; margin-right:1%;">
+  <img src="pic/result_after.png" style="width:50%; margin-left:1%;">
+</div>
 
 ## Common Errors
 1.	*“You haven’t chosen an image! Please switch to another image and switch back to choose your image!”* (in step 1)  
