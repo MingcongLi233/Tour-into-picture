@@ -23,7 +23,7 @@ Please select whether you want to skip the step of cutting out the foreground.
 
 (b) If you do not want to skip, please select *"No"*, then a new window will pop up. Please click the consecutive points with the mouse in the new window to form a closed graph. The closed graph is your foreground. After clicking all the points, please press "Enter". 
 
-! [selecting the foreground](/pic/choose_fore.png "choosing_foreground")
+![selecting the foreground](/pic/choose_fore.png "choosing_foreground")
 > Choosing the foreground
 
 ### 3.Rectangle Creating
