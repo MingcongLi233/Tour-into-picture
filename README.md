@@ -42,10 +42,10 @@ If you are not satisfied with this image, please click "yes" in the pop-up messa
 If you are satisfied with the screenshot, please enter [Esc] to end the control of keyboard. 
 
 ## Demonstration of Results
-<p float="left">
-  <img src="Pic/result_before.jpg" width="50%" />
-  <img src="Pic/result_after.png" width="50%" /> 
-</p>
+<div style="display:flex;">
+  <img src="Pic/result_before.jpg" style="width:50%; margin-right:1%;">
+  <img src="Pic/result_after.png" style="width:50%; margin-left:1%;">
+</div>
 
 ## Common Errors
 1.	*“You haven’t chosen an image! Please switch to another image and switch back to choose your image!”* (in step 1)  
