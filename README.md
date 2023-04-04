@@ -43,7 +43,7 @@ If you are satisfied with the screenshot, please enter [Esc] to end the control 
 
 ## Demonstration of Results
 <div style="display:Result;">
-  <img src="pic/result_before.jpg" style="width:50%; margin-right:1%;">
+  <img src= pic/result_before.jpg style="width:50%; margin-right:1%;">
   <img src="pic/result_after.png" style="width:50%; margin-left:1%;">
 </div>
 
