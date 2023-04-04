@@ -42,9 +42,13 @@ If you are not satisfied with this image, please click "yes" in the pop-up messa
 If you are satisfied with the screenshot, please enter [Esc] to end the control of keyboard. 
 
 ## Demonstration of Results
-<div style="display:flex;">
-  <img src="Pic/result_before.jpg" style="width:50%; margin-right:1%;">
-  <img src="Pic/result_after.png" style="width:50%; margin-left:1%;">
+<div style="display: flex">
+  <div style="flex: 50%">
+    <img src="pic/result_before.jpg" style="width:100%">
+  </div>
+  <div style="flex: 50%">
+    <img src="pic/result_after.png" style="width:100%">
+  </div>
 </div>
 
 ## Common Errors
