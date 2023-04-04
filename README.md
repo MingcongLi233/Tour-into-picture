@@ -42,7 +42,7 @@ If you are not satisfied with this image, please click "yes" in the pop-up messa
 If you are satisfied with the screenshot, please enter [Esc] to end the control of keyboard. 
 
 ## Demonstration of Results
-| ![result_before](pic/result_before.jpg) | ![result_after](pic/result_after.png) |
+| ![result_before](Pic/result_before.jpg) | ![result_after](Pic/result_after.png) |
 
 ## Common Errors
 1.	*“You haven’t chosen an image! Please switch to another image and switch back to choose your image!”* (in step 1)  
