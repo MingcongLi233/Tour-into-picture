@@ -44,10 +44,10 @@ If you are satisfied with the screenshot, please enter [Esc] to end the control 
 ## Demonstration of Results
 <div style="display: flex">
   <div style="flex: 50%">
-    <img src="Pic/result_before.jpg" style="width:100%">
+    <img src="Pic/result_before.jpg" style="width:30%">
   </div>
   <div style="flex: 50%">
-    <img src="Pic/result_after.png" style="width:100%">
+    <img src="Pic/result_after.png" style="width:30%">
   </div>
 </div>
 
